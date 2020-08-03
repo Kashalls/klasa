@@ -30,7 +30,7 @@
     "eslint": "^4.9.0",
     "ink-docstrap": "github:bdistin/docstrap#klasa",
     "jsdoc": "github:jsdoc3/jsdoc",
-    "tslint": "^5.8.0",
+    "tslint": "^6.1.3",
     "typescript": "^2.5.3"
   },
   "engines": {
